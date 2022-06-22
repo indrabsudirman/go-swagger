@@ -1,4 +1,4 @@
-// Package main User API.
+// Package classification User API.
 //
 //     Schemes: http
 //     Host: localhost
